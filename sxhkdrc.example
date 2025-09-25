@@ -3,7 +3,7 @@
 super + 1 
     scwmctl 1 0
 super + 2 
-    scwmctl 1 
+    scwmctl 1 1
 super + 3
     scwmctl 1 2
 # To mark window
