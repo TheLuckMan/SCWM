@@ -1,7 +1,6 @@
 # SCWM
-    SCWM - Simple & Chill Window Manager
-By TheLuckMan (aka. TheLikeMan) (Mark Platniek)
-================================================
+
+SCWM - Simple & Chill Window Manager
 SCWM - Is Ultra-Minimalist hybrid X11 window manager which follows UNIX-way
 philosphy - Do one thing and do it good. SCWM Inspired by DWM and CWM
 
