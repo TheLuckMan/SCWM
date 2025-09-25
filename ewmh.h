@@ -1,4 +1,4 @@
-#ifndef EWMH_H // **** See LICENSE.txt file for copyright and license details. ****
+#ifndef EWMH_H // **** See LICENSE file for copyright and license details. ****
 #define EWMH_H
 #include <X11/Xlib.h>
 
