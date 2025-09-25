@@ -19,7 +19,7 @@ SCWM works well as tile or floating (classic)
 - How to configure this window manager?
 Just edit configure "sxhkdrc" for sxhkd config file if you want to configure key
 combinations (see sxhkdrc.example to understand work with scwmctl), or configure source file "scwm.c"
-=================================================
+
 
 Note: use "make" command to compile it, and "make install" as root to install
 in /usr/local/bin, and "make clean" to clean scwm files
