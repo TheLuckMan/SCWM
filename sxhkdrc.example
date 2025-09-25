@@ -1,0 +1,48 @@
+# scwmctl (cmd) (arg)
+# Open windows with mark (arg)
+super + 1 
+    scwmctl 1 0
+super + 2 
+    scwmctl 1 
+super + 3
+    scwmctl 1 2
+# To mark window
+super + shift + 1
+    scwmctl 2 0
+super + shift + 2
+    scwmctl 2 1
+super + shift + 3
+    scwmctl 2 2
+# Switch layout (Tile -> Monocle -> Float)
+super + space
+    scwmctl 3
+# Toggle floating window
+super + t
+    scwmctl 4
+# Kill / Delete window
+super + q
+    scwmctl 5
+# to focus previous window
+super + k
+    scwmctl 6
+# to focus next window
+super + j
+    scwmctl 7
+# increase master window factor
+super + l
+    scwmctl 8
+# decrease master window factor
+super + h
+    scwmctl 9
+# increase count of master windows
+super + v
+    scwmctl 10
+# decrease count of master windows
+super + b
+    scwmctl 11
+# Kill xorg
+super + shift + q
+    killall Xorg
+# open terminal
+super + s
+    st &
