@@ -32,9 +32,3 @@ in /usr/local/bin, and "make clean" to clean scwm files
 1. Multimonitor configuration (Xinerama)
 2. fix bugs
 3. better support EWMH
-
-5. bundle with "sxhkd"
-- Work in process
-1. Multimonitor configuration
-2. fix bugs
-3. better support EWMH
